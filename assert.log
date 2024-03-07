@@ -1,0 +1,8 @@
+=== Assertion failed ===
+ * What:    m_sessions.erase(session)==1
+ * Message: Unable to remove - session
+ * When:    2022/05/27 01:00:36.004005400
+ * Method:  void __thiscall overlook::fingagent::http::HttpServer::removeAllSession(void)
+ * File:    ..\..\..\src\overlook\fingagent\http\HttpServer.cpp
+ * Line:    186
+
